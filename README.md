@@ -1,1 +1,1 @@
-This REPO is for TBC Classic Anniversary WAs that are useful for everyday tracking
+This Repo is for Weak Auras used for tracking various resources, skills, reps, and spells. Confirmed to work in both TBC Classic and Classic Era. 

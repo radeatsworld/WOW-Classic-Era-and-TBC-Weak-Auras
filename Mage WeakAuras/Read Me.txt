@@ -1,1 +1,0 @@
-This Repo is for Mage Classic Weak Auras used for tracking various resources and spells. Confirmed to work in both TBC Classic and Classic Era. 
